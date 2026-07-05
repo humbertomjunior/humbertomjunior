@@ -1,10 +1,10 @@
-# Olá, eu sou o Humberto! 👋 | Hi, I'm Humberto! 👋
+# Olá, eu sou o Humberto! 👋 / Hi, I'm Humberto! 👋
 
-<a href="#-sobre-mim">Português</a> • <a href="#-about-me">English</a>
+[Português](#português) • [English](#english)
 
 ---
 
-## 🇧🇷 Sobre Mim
+## Português
 
 Sou **Desenvolvedor de Software Pleno II na Alura** e pós-graduando em **Arquitetura de Software pela FIAP**. Sou focado em construir soluções robustas, escaláveis e com código limpo, sempre buscando aplicar as melhores práticas de engenharia e design de software.
 
@@ -15,7 +15,7 @@ Sou **Desenvolvedor de Software Pleno II na Alura** e pós-graduando em **Arquit
 
 ---
 
-## 🇺🇸 About Me
+## English
 
 I am a **Mid-Level II Software Developer at Alura** and a postgraduate student in **Software Architecture at FIAP**. I focus on building robust, scalable, and clean code solutions, always striving to apply the best software engineering and design practices.
 
@@ -32,10 +32,12 @@ I am a **Mid-Level II Software Developer at Alura** and a postgraduate student i
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235C4EE5.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 ### 📫 Como me encontrar / Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humbertodemoraesjunior/)
