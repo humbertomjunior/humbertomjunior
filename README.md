@@ -1,6 +1,6 @@
 # Olá, eu sou o Humberto! 👋
 
-Sou **Desenvolvedor Software Pleno II na Alura** e pós-graduando em **Arquitetura de Software pela FIAP**. Sou focado em construir soluções robustas, escaláveis e com código limpo, sempre buscando aplicar as melhores práticas de engenharia e design de software.
+Sou **Desenvolvedor de Software Pleno II na Alura** e pós-graduando em **Arquitetura de Software pela FIAP**. Sou focado em construir soluções robustas, escaláveis e com código limpo, sempre buscando aplicar as melhores práticas de engenharia e design de software.
 
 ---
 
@@ -10,16 +10,13 @@ Sou **Desenvolvedor Software Pleno II na Alura** e pós-graduando em **Arquitetu
 * **Evolução Acadêmica:** Aprofundando conceitos de padrões de arquitetura, escalabilidade e resiliência na FIAP.
 
 ### 🛠️ Tecnologias e Ferramentas:
-* **Linguagens & Frameworks:** Java, Spring Boot, Ecossistema Spring
-* **Infraestrutura & Cloud:** Kubernetes, AWS, Terraform, Docker
-* **Bancos de Dados & Testes:** Ferramentas de migração de dados, testes automatizados e bancos relacionais/não-relacionais.
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=humbertomjunior&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertomjunior&layout=compact&theme=radial" alt="Tecnologias mais usadas" height="150" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235C4EE5.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
