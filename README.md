@@ -38,4 +38,4 @@ I am a **Mid-Level II Software Developer at Alura** and a postgraduate student i
 ---
 
 ### 📫 Como me encontrar / Connect with me:
-* 💼 [LinkedIn](https://www.linkedin.com/in/humbertodemoraesjunior/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humbertodemoraesjunior/)
